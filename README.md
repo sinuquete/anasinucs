@@ -1,4 +1,5 @@
-### Oi, eu sou a Ana 🦕
+### Oi, eu sou a Ana 
+
 
 <div>
   <a href="https://beacons.ai/anascar">
